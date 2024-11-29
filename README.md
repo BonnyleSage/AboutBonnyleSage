@@ -1,8 +1,3 @@
-# ![Portfolio GIF](https://repository-images.githubusercontent.com/
-
-
-
-
 # AboutBonnyleSage
 👋 **Hi there!** I'm Bonny le Sage , a **self-taught penetration tester** and **freelance cybersecurity expert**. I transitioned from being a **senior graphic designer** to following my passion for **programming** and **cybersecurity**. Now, I use my skills to help clients secure their systems and networks.
 
