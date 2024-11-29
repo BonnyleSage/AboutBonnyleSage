@@ -50,7 +50,7 @@ Here's a list of key cybersecurity skills I have developed, alongside projects I
 ## 📚 **Cybersecurity Projects,Experiences & Resources**
 
 
-## 🧑‍💻 Programming Projects
+📘 ## 🧑‍💻 **Programming Projects**
 
 Here are some simple projects I built in **Python**, **JavaScript**, and **Ruby** to showcase my programming skills.
 
