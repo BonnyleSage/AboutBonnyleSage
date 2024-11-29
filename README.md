@@ -1,9 +1,5 @@
 # ![Portfolio GIF](https://repository-images.githubusercontent.com/895947964/6a4e2988-6d06-4258-a933-189c7be4f6d8)
 
-# Welcome to My GitHub Portfolio
-
-
-
 
 
 
